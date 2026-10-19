@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-673-feat-backend-add-get-api-lineage-output-digest",
+    "fix/issue-626-test-frontend-add-tests-for",
+    "fix/issue-631-fix-frontend-validate-video-hashes-before",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-673-feat-backend-add-get-api-lineage-output-digest": "main",
+    "fix/issue-626-test-frontend-add-tests-for": "main",
+    "fix/issue-631-fix-frontend-validate-video-hashes-before": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-673-feat-backend-add-get-api-lineage-output-digest",
+    "fix/issue-626-test-frontend-add-tests-for",
+    "fix/issue-631-fix-frontend-validate-video-hashes-before",
+    "origin"
+  ]
+}
